@@ -162,7 +162,7 @@ button {
   top: 25px;
   right: 25px;
   font-family: var(--stylish-font), fantasy;
-  font-weight: 400;
+  font-variation-settings: 'wght' var(--font-weight);
   font-size: 14px;
   line-height: normal;
   opacity: 0.5;
@@ -255,10 +255,15 @@ button {
   margin-block-start: 25px;
   display: flex;
   justify-content: end;
+  align-items: center;
+  gap: 6px;
 }
 
 .card__icon-button {
   border: 2px solid transparent;
+  padding: 0;
+  block-size: 40px;
+  inline-size: 43px;
   background-color: transparent;
   transition: border 0.3s ease;
 }

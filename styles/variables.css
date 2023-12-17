@@ -10,7 +10,7 @@
     --font-weight: 400;
     --font-weight-title: 700;
     --bg-image: repeating-linear-gradient(to right, #d3d3d3 0 2px, transparent 2px 4px), repeating-linear-gradient(#d3d3d3 0 2px, transparent 2px 4px), linear-gradient(#e7e7e7 0.01%, #1a1a1a);
-    --page-section-size: clamp(23.188rem, 16.035rem + 30.52vw, 43.5rem);
+    --page-section-size: clamp(23.438rem, 16.285rem + 30.52vw, 43.75rem);
     --margin-inline: clamp(0rem, -8.187rem + 34.93vw, 23.25rem);
     --header-padding: clamp(7.5rem, 7.148rem + 1.5vw, 8.5rem) 0 25px;
     --header-logo-size: clamp(3.063rem, 2.71rem + 1.5vw, 4.063rem);
